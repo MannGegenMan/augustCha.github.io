@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', (event) => {
 let tg = window.Telegram.WebApp;
 
 tg.expand();
@@ -76,3 +77,4 @@ document.getElementById("btn7").addEventListener("click", function(){
 document.getElementById("btn8").addEventListener("click", function(){
     toggleItem(this, "item8", 3000);
 })
+});
