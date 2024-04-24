@@ -55,24 +55,24 @@ function calculateTotalPrice() {
 document.getElementById("btn1").addEventListener("click", function(){
     toggleItem(this, "item1", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn2").addEventListener("click", function(){
     toggleItem(this, "item2", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn3").addEventListener("click", function(){
     toggleItem(this, "item3", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn4").addEventListener("click", function(){
     toggleItem(this, "item4", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn5").addEventListener("click", function(){
     toggleItem(this, "item5", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn6").addEventListener("click", function(){
     toggleItem(this, "item6", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn7").addEventListener("click", function(){
     toggleItem(this, "item7", 3000);
 })
-document.getElementById("btn1").addEventListener("click", function(){
+document.getElementById("btn8").addEventListener("click", function(){
     toggleItem(this, "item8", 3000);
 })
