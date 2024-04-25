@@ -40,7 +40,7 @@ function toggleItem(btn, itemId, price) {
     }
 }
 
-Telegram.Web.App.onEvent("mainButtonClicked", function() {
+Telegram.WebApp.onEvent("mainButtonClicked", function() {
     let data = {
         items: items,
         totalPrice: calculateTotalPrice()
